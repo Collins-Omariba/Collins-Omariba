@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=collins-omariba&label=Profile%20views&color=0e75b6&style=flat" alt="collins-omariba" /> </p>
 
-- 🔭 I’m currently working on **A revamped portfolio website to showcase my skills**
+- 🔭 My portfolio     
+**https://collins-omariba.github.io/**
 
 - 🌱 I’m currently learning **Django, Micro python**
 
