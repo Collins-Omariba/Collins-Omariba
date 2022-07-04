@@ -6,11 +6,11 @@
 - 🔭 My portfolio     
 **https://collins-omariba.github.io/**
 
-- 🌱 I’m currently learning **Django, Micro python**
+- 🌱 I’m currently learning **FASTapi, Micro python**
 
-- 👯 I’m looking to collaborate on **Open source ML projects**
+- 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available at [Coming soon...]
+- 👨‍💻 All of my projects are available at [https://collins-omariba.github.io/]
 
 - 💬 Ask me about **Python, JavaScript**
 
