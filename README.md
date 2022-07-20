@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Collins Omariba</h1>
+<h1 align="center">Hi 👋, I'm  Omariba Collins</h1>
 <h3 align="center">A passionate web developer, Machine Learning and programming of embedded systems enthusiast from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=collins-omariba&label=Profile%20views&color=0e75b6&style=flat" alt="collins-omariba" /> </p>
