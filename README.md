@@ -26,6 +26,7 @@
 
 
 ## My Skill Set  
+
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -49,6 +50,7 @@
 
 
 ## Connect with me  
+
 <div align="center">
 <a href="https://github.com/Collins-Omariba" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -65,17 +67,20 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collins-Omariba&hide_border=true&layout=compact" align="center" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api?username=Collins-Omariba&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
+## Github Stats 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Collins-Omariba&&style=flat-square" align="center" />
 </div>  
 
 <br />
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collins-Omariba&hide_border=true&layout=compact" align="center" /></div>  
+
+<img src="https://github-readme-stats.vercel.app/api?username=Collins-Omariba&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<br/>  
+
+
 
 ----
