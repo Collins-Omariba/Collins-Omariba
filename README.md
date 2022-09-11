@@ -4,7 +4,7 @@
 # **<div align="center">👨‍💻🤖</div>**  
   
 
-### <div align="center">A passionate web developer, Machine Learning and programming of embedded systems enthusiast from Kenya</div>  
+### <div align="center">A passionate web developer & Machine Learning  enthusiast from Kenya</div>  
   
 
 - 🕸️ [Portfolio website](https://collins-omariba.github.io/)  
