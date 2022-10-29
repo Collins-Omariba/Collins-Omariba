@@ -4,7 +4,7 @@
 # **<div align="center">👨‍💻🤖</div>**  
   
 
-### <div align="center">A majorly a Web Dev. Also a ML & IoT enthusiast  from Kenya</div>  
+### <div align="center">Am majorly a Web Dev. Also a ML & IoT enthusiast  from Kenya</div>  
   
 
 - 🕸️ [Portfolio website](https://collins-omariba.github.io/)  
