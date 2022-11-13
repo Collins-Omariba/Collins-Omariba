@@ -18,8 +18,6 @@
 
 - ❓ Ask me about anything related to Backend Development (Django, Flask) & Machine Learning   
   
-
-- 🤯 Python is older than Java   
   
 
 <br/>  
