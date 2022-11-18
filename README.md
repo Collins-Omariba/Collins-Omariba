@@ -10,7 +10,7 @@
 - 🕸️ [Portfolio website](https://collins-omariba.github.io/)  
   
 
-- 🔭 I’m currently working on [Spotify Music Rooms Web App](https://github.com/Collins-Omariba/music_control)  
+
   
 
 - 🌱 I’m currently increasing my knowledge in Flask, Django and machine learning.  
