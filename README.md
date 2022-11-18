@@ -13,7 +13,7 @@
 
   
 
-- 🌱 I’m currently increasing my knowledge in Flask, Django and machine learning.  
+- 🌱 I’m currently increasing my knowledge in **Backend Development** and **Machine Learning**.  
   
 
 - ❓ Ask me about anything related to Backend Development (Django, Flask) & Machine Learning   
