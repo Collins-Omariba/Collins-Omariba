@@ -22,16 +22,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 January 2023 - To: 31 January 2023
-
-Total Time: 17 hrs 9 mins
-
-Python       9 hrs 50 mins   >>>>>>>>>>>>>>-----------   57.30 %
-C++          3 hrs 54 mins   >>>>>>-------------------   22.82 %
-HTML         2 hrs 8 mins    >>>----------------------   12.50 %
-Markdown     24 mins         >------------------------   02.39 %
-Bash         15 mins         -------------------------   01.51 %
-Other        11 mins         -------------------------   01.10 %
+C++          3 hrs 54 mins   █████████████▒░░░░░░░░░░░   53.28 %
+Python       3 hrs 3 mins    ██████████▒░░░░░░░░░░░░░░   41.56 %
+Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
 ```
 
 <!--END_SECTION:waka-->
