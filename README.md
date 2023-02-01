@@ -17,7 +17,7 @@
   
 <br/>  
 
-### Wakatime stats
+### 📊 Wakatime stats
 
 <!--START_SECTION:waka-->
 
