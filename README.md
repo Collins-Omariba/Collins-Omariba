@@ -13,7 +13,7 @@
 
   
 
-- 🌱 I’m currently increasing my knowledge in **Backend Development** and **Machine Learning**.  
+- 🧠 I’m currently increasing my knowledge in **Backend Development** and **Machine Learning**.  
   
 <br/>  
 
