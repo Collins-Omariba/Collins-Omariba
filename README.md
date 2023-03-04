@@ -15,26 +15,6 @@
 
 - 🧠 I’m currently increasing my knowledge in **Backend Development** and **Machine Learning**.  
   
-<br/>  
-
-### 📊 Wakatime stats
-
-<!--START_SECTION:waka-->
-
-```text
-From: 15 January 2023 - To: 02 March 2023
-
-Total Time: 43 hrs 44 mins
-
-Python       25 hrs 58 mins  ███████████████░░░░░░░░░░   59.40 %
-HTML         7 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
-C++          4 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-Markdown     1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-Text         1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-Bash         51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-```
-
-<!--END_SECTION:waka-->
 
 
 ## 👨‍💻 Programming Tools 
@@ -86,7 +66,35 @@ Bash         51 mins         ▒░░░░░░░░░░░░░░░░
 <br/>  
 
 
+### Languages
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Collins-Omariba&show_icons=true&locale=en&layout=compact" alt="germdz" /></p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>   
+
+### 📊 Github stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Collins-Omariba&show_icons=true&locale=en" alt="germdz" /></p>
+
+
+### 📊 Wakatime stats
+
+<!--START_SECTION:waka-->
+
+```text
+From: 15 January 2023 - To: 02 March 2023
+
+Total Time: 43 hrs 44 mins
+
+Python       25 hrs 58 mins  ███████████████░░░░░░░░░░   59.40 %
+HTML         7 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
+C++          4 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+Markdown     1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Text         1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Bash         51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+```
+
+<!--END_SECTION:waka-->
 
 
 ----
