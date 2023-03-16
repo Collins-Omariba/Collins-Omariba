@@ -82,16 +82,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 January 2023 - To: 13 March 2023
+From: 15 January 2023 - To: 14 March 2023
 
-Total Time: 50 hrs 10 mins
+Total Time: 51 hrs 35 mins
 
-Python       27 hrs 18 mins  █████████████▓░░░░░░░░░░░   54.44 %
-HTML         8 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-C++          5 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
-Text         3 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-Markdown     1 hr 35 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-CSS          1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Python       27 hrs 18 mins  █████████████▒░░░░░░░░░░░   52.94 %
+HTML         8 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
+C++          6 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
+Text         3 hrs 46 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Markdown     1 hr 35 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+CSS          1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 ```
 
 <!--END_SECTION:waka-->
