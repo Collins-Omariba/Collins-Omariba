@@ -4,7 +4,7 @@
 # **<div align="center">👨‍💻🤖</div>**  
   
 
-### <div align="center"> BACKEND DEV, ML & ROBOTICS.</div>  
+### <div align="center"> BACKEND DEV, ML & IoT.</div>  
   
 
 - 🕸️ [Portfolio website](https://collins-omariba.github.io/)  
