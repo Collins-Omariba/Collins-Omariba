@@ -4,7 +4,7 @@
 # **<div align="center">👨‍💻🤖</div>**  
   
 
-### <div align="center">Backend Developer || Machine Learning .</div>  
+### <div align="center"> BACKEND DEV, ML.</div>  
   
 
 - 🕸️ [Portfolio website](https://collins-omariba.github.io/)  
