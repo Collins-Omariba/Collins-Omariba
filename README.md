@@ -58,17 +58,4 @@
 </div>  
   
 
-<br/>  
-
-
-### Languages
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Collins-Omariba&show_icons=true&locale=en&layout=compact" alt="germdz" /></p>
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>   
-
-### 📊 Github stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Collins-Omariba&show_icons=true&locale=en" alt="germdz" /></p>
-
-
+<br/> 
