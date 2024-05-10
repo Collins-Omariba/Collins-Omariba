@@ -4,7 +4,7 @@
 # **<div align="center">👨‍💻🤖</div>**  
   
 
-### <div align="center"> MECHATRONICS & SOFTWARE ENGINEERING </div>  
+### <div align="center"> HARDWARE & SOFTWARE </div>  
   
 🕸️ [Portfolio website](https://collins-omariba.github.io/)  
 </div>  
