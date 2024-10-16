@@ -1,9 +1,3 @@
-# **<div align="center">Hi 👋, I'm Omariba Collins </div>**  
-  
-
-# **<div align="center">👨‍💻🤖</div>**  
-  
-
 ### <div align="center"> SOFTWARE & HARDWARE </div>  
   
 🕸️ [Portfolio website](https://collins-omariba.github.io/)  
