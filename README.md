@@ -8,8 +8,9 @@
 <div align="center">
 
 <a href="https://twitter.com/OmaribaCollins" target="_blank">
-  <img src="https://img.shields.io/badge/X&nbsp;(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
 </a>
+
 
 
 
