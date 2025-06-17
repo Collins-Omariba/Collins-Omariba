@@ -1,4 +1,4 @@
-### <div align="center"> SOFTWARE & HARDWARE </div>  
+### <div align="center"> HARDWARE & SOFTWARE </div>  
   
 🕸️ [Portfolio website](https://collins-omariba.github.io/)  
 </div>  
