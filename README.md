@@ -6,7 +6,7 @@
 
 ## About Me
 
-I specialize in the seamless integration of **hardware and software**, combining **electronics design**, **firmware development**, and **backend engineering** to bring intelligent systems in **IoT, Robotics, Control Systems, and Automation** to life. I do this by designing, troubleshooting, and programming hardware while also building the supporting backend infrastructure.  
+I specialize in the seamless integration of **hardware and software**, combining **electronics design**, **firmware development**, and even **backend engineering** to bring intelligent systems in **IoT, Robotics, Control Systems, and Automation** to life. I do this by designing, troubleshooting, and programming hardware while also building the supporting backend infrastructure.  
 
 ---
 
