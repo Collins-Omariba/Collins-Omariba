@@ -13,13 +13,13 @@ I specialize in the seamless integration of **hardware and software**, combining
 ### Tech Stack
 
 **Embedded:**  
-C/C++, STM32, ESP32, RTOS
+C, C++, STM32, ESP32, RTOS ....
 
 **Backend:**  
-Python, TypeScript, PostgreSQL, Docker 
+Python, TypeScript, PostgreSQL, Docker ....
 
 **Tools & Platforms:**  
-KiCad, Git, Linux  
+KiCad, Git, Linux ....
 
 ---
 
