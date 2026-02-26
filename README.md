@@ -1,12 +1,7 @@
-### <div align="center">HARDWARE & SOFTWARE ENGINEER</div>
 
-[Portfolio website](https://collins-omariba.github.io/)
 
----
+I specialize in hardware–software system integration, with embedded systems as my **core** specialization, while also leveraging my back-end development experience to build applications that enhance and extend hardware functionality.
 
-## About Me
-
-I specialize in the seamless integration of **hardware and software**, combining **electronics design**, **firmware development**, and even **backend engineering** to bring intelligent systems in **IoT, Robotics, Control Systems, and Automation** to life. I do this by designing, troubleshooting, and programming hardware while also building the supporting backend infrastructure.  
 
 ---
 
