@@ -7,7 +7,7 @@ I specialize in hardware–software system integration, with embedded systems as
 
 ### Tech Stack
 
-**Embedded:**  
+**Embedded (MAIN):**  
 C, C++, STM32, ESP32, RTOS ....
 
 **Backend:**  
