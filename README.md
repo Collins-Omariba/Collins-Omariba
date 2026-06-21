@@ -1,26 +1,23 @@
 
+## Embedded Systems & IoT
 
-I specialize in hardware–software system integration, with embedded systems as my **core** specialization, while also leveraging my back-end development experience to build applications that enhance and extend hardware functionality.
+I specialize in embedded systems development, with additional experience in backend development.
 
+**Focus areas:**
 
----
+1. The Hardware–Firmware Marriage **(Core Focus)** <br> 
+   Uniting MCU-centric PCB design with firmware-first system architecture.
 
-### Tech Stack
+2. Device–Cloud Integration **(Supporting Layer)** <br> 
+   Building backend systems that exist to scale, observe, and extend the capabilities of the core edge device.
 
-**Embedded (MAIN):**  
-C, C++, STM32, ESP32, RTOS ....
-
-**Backend:**  
-Python, TypeScript, PostgreSQL, Docker ....
-
-**Tools & Platforms:**  
-KiCad, Git, Linux ....
 
 ---
 
-## Connect with Me  
+## Connect with Me
 
 <div align="center">
+
 <a href="https://linkedin.com/in/omariba-collins-b28b841b9" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -32,4 +29,5 @@ KiCad, Git, Linux ....
 <a href="https://medium.com/@collinsomariba" target="_blank">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
+
 </div>
