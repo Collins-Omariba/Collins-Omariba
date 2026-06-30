@@ -6,7 +6,7 @@ I specialize in embedded systems development, with additional experience in back
 **Focus areas:**
 
 1. The Hardware–Firmware Marriage **(Core Focus)** <br> 
-   Uniting MCU-centric PCB design with firmware-first system architecture.
+   Uniting PCB design with Firmware-first system architecture across MCU, MPU, and SoC platforms
 
 2. Device–Cloud Integration **(Supporting Layer)** <br> 
    Building backend systems that exist to scale, observe, and extend the capabilities of the core edge device.
